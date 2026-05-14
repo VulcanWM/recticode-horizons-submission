@@ -8,6 +8,10 @@ This is a multi-repo project so I am linking all the repos that I have considere
 - [Ratelimiter Challenge](https://github.com/Recticode/ratelimiter): One of the Recticode challenges which involves finding why the ratelimiter won't ratelimit anything
 - [Ghost Payment Challenge](https://github.com/Recticode/ghost-payments): One of the Recticode challenges where the payments are being marked as paid even when the payment fails
 
+# AI Use
+
+I've used AI for the UI of the website, but I've written everything else myself (including the backend of the website, the API, CLI, etc).
+
 # Recticode
 
 Practice real-world coding by fixing bugs in actual codebases, not solving toy problems.
